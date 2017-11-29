@@ -1,0 +1,53 @@
+﻿  Proyecto.cpp
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(89): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(89): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(162): warning C4129: '!': secuencia de escape de carácter no reconocida
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(111): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: vea la declaración de 'getch'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(213): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: vea la declaración de 'kbhit'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(353): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(354): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(375): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: vea la declaración de 'scanf'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(419): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: vea la declaración de 'strcat'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(420): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: vea la declaración de 'strcat'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(421): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: vea la declaración de 'strcat'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(431): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(440): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(429): warning C4101: 'aux1': variable local sin referencia
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(592): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(606): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(604): warning C4101: 'aux1': variable local sin referencia
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(649): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: vea la declaración de 'getch'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(651): warning C4101: 'a': variable local sin referencia
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(651): warning C4101: 'z': variable local sin referencia
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(713): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(720): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(885): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(898): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(896): warning C4101: 'aux1': variable local sin referencia
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(957): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: vea la declaración de 'scanf'
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(942): warning C4101: 'opc': variable local sin referencia
+c:\users\administrador1\desktop\proyecto\proyectoestructuras\proyectoestructuras\proyecto.cpp(390): warning C4172: devolución de dirección de la variable local o temporal: cadena
+  ProyectoEstructuras.vcxproj -> C:\Users\Administrador1\Desktop\proyecto\ProyectoEstructuras\Debug\ProyectoEstructuras.exe
+  ProyectoEstructuras.vcxproj -> C:\Users\Administrador1\Desktop\proyecto\ProyectoEstructuras\Debug\ProyectoEstructuras.pdb (Partial PDB)

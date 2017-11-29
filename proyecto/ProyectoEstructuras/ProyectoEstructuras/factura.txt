@@ -1,0 +1,10 @@
+Nombre: Laura  Apellido: Ines Cedula: 1720980067 
+Nombre: Monica  Apellido: Enriqueta Cedula: 1708652787 
+Nombre: Monica  Apellido: E Cedula: 1708652787 
+Nombre: Tamara  Apellido: G Cedula: 1720980174 
+Nombre: Monica  Apellido: Enriquta Cedula: 1720980067 
+Nombre: Andrea  Apellido: V Cedula: 1720980067 
+Nombre: Hugo  Apellido: Fe Cedula: 1708652787 
+Nombre: nicole  Apellido: carv Cedula: 1720980174 
+Nombre: Juan  Apellido: Flores Cedula: 1708652787 
+Nombre: Nicole  Apellido: Naat Cedula: 1708652787 
